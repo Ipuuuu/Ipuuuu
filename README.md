@@ -6,6 +6,8 @@
 - 💞️ I’m looking to learn & collaborate on fun and useful ML projects!
 
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ipuuuu)](https://git.io/streak-stats)
+
 <!---
 Ipuuuu/Ipuuuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
