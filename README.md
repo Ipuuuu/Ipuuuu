@@ -7,6 +7,7 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ipuuuu)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ipuuuu)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Ipuuuu/Ipuuuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
