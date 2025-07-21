@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Immaculata Umoh
 - 👀 I’m a passionate tech girl with a keen interest in Machine Learning,
-  Deep Learning, and UI/UX design. I believe in the power of technology to
+  Deep Learning, and Embedded Systems. I believe in the power of technology to
   shape the future and am always excited to learn and explore new ideas.
 - 🌱 I’m currently learning Data Science, Data Analysis, Machine Learning (Artificial Intelligence) and Python with Scikit Learn, Tensorflow, Pandas, Matplotlib & Numpy!
 - 💞️ I’m looking to learn & collaborate on fun and useful ML projects!
